@@ -5,7 +5,7 @@ metadata:
   description: "This is a test docs"
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/gowthamshankar99/Testdocs
-    jenkins.io/job-full-name: teamA/test
+    jenkins.io/job-full-name: teamA
 spec:
   type: documentation
   lifecycle: experimental
