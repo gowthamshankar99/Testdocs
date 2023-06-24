@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: padraigobrien/Testdocs
     backstage.io/techdocs-ref: url:https://github.com/gowthamshankar99/Testdocs
-    'jenkins.io/job-full-name': teamA/test
+    jenkins.io/job-full-name: teamA/test
 spec:
   type: documentation
   lifecycle: experimental
