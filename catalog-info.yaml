@@ -4,7 +4,6 @@ metadata:
   name: "TestDocs"
   description: "This is a test docs"
   annotations:
-    github.com/project-slug: padraigobrien/Testdocs
     backstage.io/techdocs-ref: url:https://github.com/gowthamshankar99/Testdocs
     jenkins.io/job-full-name: teamA/test
 spec:
